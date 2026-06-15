@@ -16,9 +16,11 @@ Data Analytics professional passionate about transforming raw data into actionab
 
 ### 🚀 Featured Projects
 
-* 📊 **[YouTube Dataset Analysis](https://github.com/adnan-azhar/youtube-analytics)** - Weekly trends analysis identifying most-viewed videos by day and hour. Built interactive visualizations to uncover peak engagement patterns across different time periods.
-* 📈 **[Project Name 2](Link to Repo)** - Brief description (e.g., Automated ETL pipeline processing 100K+ daily records with Python and SQL).
-* 🔍 **[Project Name 3](Link to Repo)** - Brief description (e.g., Customer segmentation analysis using clustering algorithms).
+### 1. [End-to-End Customer Retention & Revenue Protection Analysis](https://github.com/adnan-azhar/telco-customer-churn-analysis)
+* **Business Problem:** High baseline customer churn (26.5%) threatening monthly recurring revenue.
+* **What I Did:** Built a Python pipeline to ingest and clean 7,000+ subscriber records. Conducted a segmented risk analysis to isolate an extreme vulnerability group.
+* **The Impact:** Identified a critical high-risk segment (Month-to-Month contracts using Electronic Checks) experiencing a **45%+ churn rate**. Provided data-driven conversion strategies capable of mitigating up to $150k in recurring revenue losses.
+* **Tech Stack:** `Python`, `Pandas`, `Seaborn`, `Data Cleaning`
 
 ---
 
@@ -42,5 +44,3 @@ Data Analytics professional passionate about transforming raw data into actionab
 ### 📫 Connect with Me
 
 * **Email:** adnannn498@gmail.com
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Portfolio:** [Your Portfolio](Link)
