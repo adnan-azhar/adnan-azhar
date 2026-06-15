@@ -26,8 +26,8 @@ Data Analytics professional passionate about transforming raw data into actionab
 
 ### 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-azhar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-azhar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-azhar&show_icons=true&theme=dark)](https://github.com/adnan-azhar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-azhar&layout=compact&theme=dark&count_private=true)](https://github.com/adnan-azhar)
 
 ---
 
