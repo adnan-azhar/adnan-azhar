@@ -1,21 +1,24 @@
-# Hi, I'm Adnan👋
+# Hi, I'm Adnan 👋
 
-I am a developer focused on creating clean, efficient code and engaging digital experiences. I love bridging the gap between complex backend logic and smooth user interactions.
+Data Analytics professional passionate about transforming raw data into actionable insights. I specialize in building dashboards, automating analytics workflows, and uncovering trends that drive business decisions.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** JavaScript, TypeScript, Python, HTML/CSS
-* **Frameworks & Libraries:** React, Next.js, Node.js, React Three Fiber
-* **Tools & Workflow:** Git, GitHub, Claude Code, Ollama, Obsidian
+* **Languages:** Python, SQL, JavaScript, TypeScript
+* **Data Viz & BI:** Tableau, Power BI, Matplotlib, Seaborn, Plotly
+* **Databases:** MySQL, PostgreSQL, MongoDB
+* **Tools & Workflow:** Git, GitHub, Excel, Jupyter Notebooks, Apache Spark
+* **Other:** ETL pipelines, Google Analytics, Data Warehousing
 
 ---
 
 ### 🚀 Featured Projects
 
-* 🎬 **[Project Name 1](Link to Repo)** - A brief 1-sentence description of what this is (e.g., An automated 2D animation rendering pipeline built with Remotion).
-* 🤖 **[Project Name 2](Link to Repo)** - A local AI agent orchestration tool built for custom workspace integration.
+* 📊 **[Project Name 1](Link to Repo)** - Brief description (e.g., Sales dashboard tracking KPIs across regions using Python and Tableau).
+* 📈 **[Project Name 2](Link to Repo)** - Brief description (e.g., Automated ETL pipeline processing 100K+ daily records with Python and SQL).
+* 🔍 **[Project Name 3](Link to Repo)** - Brief description (e.g., Customer segmentation analysis using clustering algorithms).
 
 ---
 
@@ -26,7 +29,18 @@ I am a developer focused on creating clean, efficient code and engaging digital 
 
 ---
 
+### 💼 What I Do
+
+* Build interactive dashboards and reports for data-driven decision making
+* Design and optimize SQL queries for complex data analysis
+* Develop Python scripts for data cleaning, transformation, and visualization
+* Create automated analytics pipelines to reduce manual reporting time
+* Identify patterns and trends to support business strategy
+
+---
+
 ### 📫 Connect with Me
 
 * **Email:** adnannn498@gmail.com
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **Portfolio:** [Your Portfolio](Link)
