@@ -16,7 +16,7 @@ Data Analytics professional passionate about transforming raw data into actionab
 
 ### 🚀 Featured Projects
 
-* 📊 **[Project Name 1](Link to Repo)** - Brief description (e.g., Sales dashboard tracking KPIs across regions using Python and Tableau).
+* 📊 **[YouTube Dataset Analysis](https://github.com/adnan-azhar/youtube-analytics)** - Weekly trends analysis identifying most-viewed videos by day and hour. Built interactive visualizations to uncover peak engagement patterns across different time periods.
 * 📈 **[Project Name 2](Link to Repo)** - Brief description (e.g., Automated ETL pipeline processing 100K+ daily records with Python and SQL).
 * 🔍 **[Project Name 3](Link to Repo)** - Brief description (e.g., Customer segmentation analysis using clustering algorithms).
 
