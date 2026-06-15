@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Adnan👋
 
 I am a developer focused on creating clean, efficient code and engaging digital experiences. I love bridging the gap between complex backend logic and smooth user interactions.
 
